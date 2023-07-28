@@ -1,0 +1,141 @@
+0x10C8	Gendarme
+0x10C9	Leather Shield
+0x10CA	Buckler
+0x10CB	Bronze Shield
+0x10CC	Round Shield
+0x10CD	Shell Shield
+0x10CE	Golden Shield
+0x10CF	Ice Shield
+0x10D0	Flame Shield
+0x10D1	Diamon Shield
+0x10D2	Platinum Shield
+0x10D3	Dragon Shield
+0x10D4	Crystal Shield
+0x10D5	Genji Shield
+0x10D6	Kaiser Shield
+0x10D7	Aegis Shield
+0x10D8	Demon Shield
+0x10D9	Venetian Shield
+0x10DA	Zodiac Escutcheon
+0x10DB	Ensanguined Shield
+0x10DC	Leather Cap
+0x10DD	Headgear
+0x10DE	Headguard
+0x10DF	Leather Headgear
+0x10E0	Horned Hat
+0x10E1	Balaclava
+0x10E2	Soldier's Cap
+0x10E3	Green Beret
+0x10E4	Red Cap
+0x10E5	Headband
+0x10E6	Pirate Hat
+0x10E7	Goggle Mask
+0x10E8	Adamant Hat
+0x10E9	Officer's Hat
+0x10EA	Chakra Band
+0x10EB	Thief's Cap
+0x10EC	Gigas Hat
+0x10ED	Chaperon
+0x10EE	Crown of Laurels
+0x10EF	Renewing Morion
+0x10F0	Dueling Mask
+0x10F1	Cotton Cap
+0x10F2	Magick Curch
+0x10F3	Pointy Hat
+0x10F4	Topkapi Hat
+0x10F5	Calot Hat
+0x10F6	Wizard's Hat
+0x10F7	Lambent Hat
+0x10F8	Feathered Cap
+0x10F9	Mage's Hat
+0x10FA	Lamia's Tiara
+0x10FB	Sorcerer's Hat
+0x10FC	Black Cowl
+0x10FD	Astrakhan Hat
+0x10FE	Gaia Hat
+0x10FF	Hypnocrown
+0x1100	Gold Hairpin
+0x1101	Celebrant's Miter
+0x1102	Black Mask
+0x1103	White Mask
+0x1104	Golden Skullcap
+0x1105	Circlet
+0x1106	Leather Helm
+0x1107	Bronze Helm
+0x1108	Sallet
+0x1109	Iron Helm
+0x110A	Barbut
+0x110B	Winged Helm
+0x110C	Golden Helm
+0x110D	Burgonet
+0x110E	Close Helmet
+0x110F	Bone Helm
+0x1110	Diamond Helm
+0x1111	Steel Mask
+0x1112	Platinum Helm
+0x1113	Giant's Helmet
+0x1114	Dragon Helm
+0x1115	Genji Helm
+0x1116	Magepower Shishak
+0x1117	Grand Helm
+0x1118	Leather Clothing
+0x1119	Chromed Leathers
+0x111A	Leather Breastplate
+0x111B	Bronze Chestplate
+0x111C	Ringmail
+0x111D	Windbreaker
+0x111E	Heavy Coat
+0x111F	Survival Vest
+0x1120	Brigandine
+0x1121	Jujitsu Gi
+0x1122	Viking Coat
+0x1123	Metal Jerkin
+0x1124	Adamant Vest
+0x1125	Barrel Coat
+0x1126	Power Vest
+0x1127	Ninja Gear
+0x1128	Gigas Chestplate
+0x1129	Minerva Bustier
+0x112A	Rubber Suit
+0x112B	Mirage Vest
+0x112C	Brave Suit
+0x112D	Cotton Shirt
+0x112E	Light Woven Shirt
+0x112F	Silken Shirt
+0x1130	Kilimweave Shirt
+0x1131	Shepherd's Bolero
+0x1132	Wizard's Robes
+0x1133	Chanter's Djellaba
+0x1134	Traveler's Vestment
+0x1135	Mage's Habit
+0x1136	Enchanter's Habit
+0x1137	Sorcerer's Habit
+0x1138	Black Garb
+0x1139	Carmagnole
+0x113A	Maduin Gear
+0x113B	Jade Gown
+0x113C	Gaia Gear
+0x113D	Cleric's Robes
+0x113E	White Robes
+0x113F	Black Robes
+0x1140	Glimmering Robes
+0x1141	Lordly Robes
+0x1142	Leather Armor
+0x1143	Bronze Armor
+0x1144	Scale Armor
+0x1145	Iron Armor
+0x1146	Linen Cuirass
+0x1147	Chainmail
+0x1148	Golden Armor
+0x1149	Shielded Armor
+0x114A	Demon Mail
+0x114B	Bone Mail
+0x114C	Diamond Armor
+0x114D	Mirror Mail
+0x114E	Platinum Armor
+0x114F	Carabineer Mail
+0x1150	Dragon Mail
+0x1151	Genji Armor
+0x1152	Maximillian
+0x1153	Grand Armor
+0xFFFF	-

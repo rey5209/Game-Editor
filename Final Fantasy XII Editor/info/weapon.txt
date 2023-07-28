@@ -1,0 +1,200 @@
+0x1001	Broadsword
+0x1002	Longsword
+0x1003	Iron Sword
+0x1004	Zwill Blade
+0x1005	Ancient Sword
+0x1006	Blood Sword
+0x1007	Lohengrin
+0x1008	Flametongue
+0x1009	Demonsbane
+0x100A	Icebrand
+0x100B	Platinum Sword
+0x100C	Bastard Sword
+0x100D	Diamond Sword
+0x100E	Runeblade
+0x100F	Deathbringer
+0x1010	Stoneblade
+0x1011	Durandal
+0x1012	Claymore
+0x1013	Defender
+0x1014	Save the Queen
+0x1015	Ragnarok
+0x1016	Ultima Blade
+0x1017	Excalibur
+0x1018	Tournesol
+0x1019	Kotetsu
+0x101A	Osafune
+0x101B	Kogarasumaru
+0x101C	Magoroku
+0x101D	Murasame
+0x101E	Kiku-ichimonji
+0x101F	Yakei
+0x1020	Ame-no-Murakumo
+0x1021	Muramasa
+0x1022	Masamune
+0x1023	Ashura
+0x1024	Sakura-saezuri
+0x1025	Kagenui
+0x1026	Koga Blade
+0x1027	Iga Blade
+0x1028	Orochi
+0x1029	Yagyu Darkblade
+0x102A	Javelin
+0x102B	Spear
+0x102C	Partisan
+0x102D	Heavy Lance
+0x102E	Storm Spear
+0x102F	Obelisk
+0x1030	Halberd
+0x1031	Trident
+0x1032	Holy Lance
+0x1033	Gungnir
+0x1034	Dragon Whisker
+0x1035	Zodiac Spear
+0x1036	Oaken Pole
+0x1037	Cypress Pole
+0x1038	Battle Bamboo
+0x1039	Musk Stick
+0x103A	Iron Pole
+0x103B	Six-fluted Pole
+0x103C	Gokuu Pole
+0x103D	Zephyr Pole
+0x103E	Ivory Pole
+0x103F	Sweep
+0x1040	Eight-fluted Pole
+0x1041	Whale Whisker
+0x1042	Shortbow
+0x1043	Silver Bow
+0x1044	Aevis Killer
+0x1045	Killer Bow
+0x1046	Longbow
+0x1047	Elfin Bow
+0x1048	Loxley Bow
+0x1049	Giant Stonebow
+0x104A	Burning Bow
+0x104B	Traitor's Bow
+0x104C	Yoichi Bow
+0x104D	Perseus Bow
+0x104E	Artemis Bow
+0x104F	Sagittarius
+0x1050	Bowgun
+0x1051	Crossbow
+0x1052	Paramina Crossbow
+0x1053	Recurve Crossbow
+0x1054	Hunting Crossbow
+0x1055	Penetrator Crossbow
+0x1056	Gastrophetes
+0x1057	Altair
+0x1058	Capella
+0x1059	Vega
+0x105A	Sirius
+0x105B	Betelgeuse
+0x105C	Ras Algethi
+0x105D	Aldebaran
+0x105E	Spica
+0x105F	Antares
+0x1060	Arcturus
+0x1061	Fomalhaut
+0x1062	Handaxe
+0x1063	Broadaxe
+0x1064	Slasher
+0x1065	Hammerhead
+0x1066	Francisca
+0x1067	Greataxe
+0x1068	Golden Axe
+0x1069	Iron Hammer
+0x106A	War Hammer
+0x106B	Sledgehammer
+0x106C	Morning Star
+0x106D	Scorpion Tail
+0x106E	Dagger
+0x106F	Mage Masher
+0x1070	Asssassin's Dagger
+0x1071	Chopper
+0x1072	Main Gauche
+0x1073	Gladius
+0x1074	Avenger
+0x1075	Orichalcum Dirk
+0x1076	Platinum Dagger
+0x1077	Zwill Crossblade
+0x1078	Shikari Nagasa
+0x1079	Rod
+0x107A	Serpent Rod
+0x107B	Healing Rod
+0x107C	Gaia Rod
+0x107D	Power Rod
+0x107E	Empyrean Rod
+0x107F	Holy Rod
+0x1080	Rod of Faith
+0x1081	Oak Staff
+0x1082	Cherry Staff
+0x1083	Wizard's Staff
+0x1084	Flame Staff
+0x1085	Storm Staff
+0x1086	Glacial Staff
+0x1087	Golden Staff
+0x1088	Judicer's Staff
+0x1089	Cloud Staff
+0x108A	Staff of the Magi
+0x108B	Mace
+0x108C	Bronze Mace
+0x108D	Bhuj
+0x108E	Miter
+0x108F	Thorned Mace
+0x1090	Chaos Mace
+0x1091	Doom Mace
+0x1092	Zeus Mace
+0x1093	Grand Mace
+0x1094	Gilt Measure
+0x1095	Arc Scale
+0x1096	Multiscale
+0x1097	Cross Scale
+0x1098	Caliper
+0x1099	Euclid's Sextant
+0x109A	Hornito
+0x109B	Fumarole
+0x109C	Tumulus
+0x109D	Caldera
+0x109E	Volcano
+0x109F	Bonebreaker
+0x10A0	Mythril Sword
+0x10A1	Hero's Blade
+0x10A2	Treaty Blade
+0x10A3	Sword of Kings
+0x10A4	Joyeuse
+0x10A5	Chirijiraden
+0x10A6	Nightmare
+0x10A7	Flimsy Blade
+0x10A8	Mythril Blade
+0x10A9	Nightmare
+0x10AA	Kumbha
+0x10AB	Mesa
+0x10AC	Mina
+0x10AD	Wyrmhero Blade
+0x10AE	Vrsabba
+0x10AF	Bone of Byblos
+0x10B0	Tula
+0x10B1	Great Trango
+0x10B2	Seitengrat
+0x10B3	Reserve (Spear ATK PWR 61)
+0x10B4	Reserve (Spear ATK PWR 65)
+0x10B5	Reserve (Unarmed ATK PWR 63)
+0x10B6	Reserve (Unarmed ATK PWR 80)
+0x10B7	Reserve (Unarmed ATK PWR 83)
+0x10B8	Reserve (Unarmed ATK PWR 145)
+0x10B9	Reserve (Unarmed ATK PWR 62)
+0x10BA	Reserve (Crossbow ATK PWR 73)
+0x10BB	Reserve (Unarmed ATK PWR 155)
+0x10BC	Reserve (Unarmed ATK PWR 103)
+0x10BD	Reserve (Unarmed ATK PWR 97)
+0x10BE	Reserve (Unarmed ATK PWR 147)
+0x10BF	Reserve (Unarmed ATK PWR 201)
+0x10C0	Karkata
+0x10C1	Excalipur
+0x10C2	Simha
+0x10C3	Makara
+0x10C4	Vrscika
+0x10C5	Mithuna
+0x10C6	Kanya
+0x10C7	Dhanusha
+0xFFFF	-

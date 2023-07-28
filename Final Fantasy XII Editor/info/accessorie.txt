@@ -1,0 +1,49 @@
+0x1154	Opal Ring
+0x1155	Ruby Ring
+0x1156	Tourmaline Ring
+0x1157	Sage's Ring
+0x1158	Ring of Renewal
+0x1159	Agate Ring
+0x115A	Bangle
+0x115B	Orrachea Armlet
+0x115C	Power Armlet
+0x115D	Argyle Armlet
+0x115E	Diamond Armlet
+0x115F	Amber Armlet
+0x1160	Berserker Bracers
+0x1161	Magick Gloves
+0x1162	Thief's Cuff's
+0x1163	Blazer Gloves
+0x1164	Genji Gloves
+0x1165	Gauntlets
+0x1166	Turtleshell Choker
+0x1167	Nihopalaoa
+0x1168	Embroidered Tippet
+0x1169	Leather Gorget
+0x116A	Jade Collar
+0x116B	Steel Gorget
+0x116C	Rose Corsage
+0x116D	Pheasant Netsuke
+0x116E	Indigo Pendant
+0x116F	Golden Amulet
+0x1170	Bowline Sash
+0x1171	Firefly
+0x1172	Sash
+0x1173	Bubble Belt
+0x1174	Cameo Belt
+0x1175	Nishijin Belt
+0x1176	Black Belt
+0x1177	Battle Harness
+0x1178	Germinas Boots
+0x1179	Heremes Sandals
+0x117A	Gillie Boots
+0x117B	Steel Poleyns
+0x117C	Winged Boots
+0x117D	Quasimodo Boots
+0x117E	Manufacted Nethicite
+0x117F	Cat-ear Hood
+0x1180	Fuzzy Miter
+0x1181	Ribbon
+0x1182	Goddess's Magicite
+0x1183	Dawn Shard
+0xFFFF	-
